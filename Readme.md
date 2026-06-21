@@ -4,7 +4,7 @@
 
 # Zero
 
-**Android Modder, Linux User & Backend Builder**
+**Android Modding, Linux User & Backend Builder**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ZxeroZ\&color=blue\&style=flat-square)](https://github.com/ZxeroZ)
 [![GitHub Followers](https://img.shields.io/github/followers/ZxeroZ?style=flat-square\&color=blue)](https://github.com/ZxeroZ?tab=followers)
@@ -12,28 +12,6 @@
 
 </div>
 
----
-
-## 🧠 About Me
-
-Most of my projects start with:
-
-> "This is annoying. There has to be a better way."
-
-Then I end up opening JADX, writing an LSPosed hook, deploying an API, or building a small app to fix it.
-
-* 📱 Reverse engineering Android apps and system components.
-* 🧩 Building LSPosed modules to add features that should have existed already.
-* ⚙️ Creating APIs and utilities when a problem needs solving.
-* 🐧 Daily-driving Arch Linux and learning by breaking things.
-
-### Current Interests
-
-* Android internals
-* LSPosed development
-* Reverse engineering
-* Linux
-* Backend systems
 
 **Philosophy:** If a feature doesn't exist, build it. If it can't be built, hook it.
 
