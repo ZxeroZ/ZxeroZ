@@ -13,7 +13,7 @@
 </div>
 
 
-**Philosophy:** If a feature doesn't exist, build it. If it can't be built, hook it.
+**Philosophy:** If something bothers me, I try to understand it. If I understand it, I'll probably try to change it.
 
 ---
 
